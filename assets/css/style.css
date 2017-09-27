@@ -1,0 +1,50 @@
+body{
+	background-image: url("../img/back.jpg");
+}
+
+header{
+	background-color: #000;
+	padding-bottom: 30px;
+	height: 120px;
+}
+
+.img-main{
+	height: 120px;
+	padding: 10px;
+}
+
+.nav{
+	padding-top: 80px;
+}
+
+
+.generatecssdotcome_parallelogram {
+	/*width:240px;
+	height:180px;*/
+	border-radius: 0px!important;
+	
+	-webkit-transform:skew(20deg);
+	-moz-transform:skew(20deg);
+	-o-transform:skew(20deg);
+	transform:skew(20deg);
+	line-height:180px;
+	text-align:center;
+	overflow:hidden;
+}
+
+.generatecssdotcome_parallelogram a{
+	border-radius: 0px!important;
+}
+
+.navbar .nav,
+.navbar .nav > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+  *zoom:1; /* hasLayout ie7 trigger */
+  vertical-align: top;
+}
+
+.navbar-inner {
+  text-align:center;
+}
